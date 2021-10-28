@@ -33,8 +33,6 @@ namespace SayolloSDK
             }
         }
 
-        [SerializeField] private GameObject videoAdCanvas;
-        [SerializeField] private GameObject purchaseAdCanvas;
         private VideoAd videoAd;
         private PurchaseAd purchaseAd;
         private SayolloSdkConfig sayolloSdkConfig;
